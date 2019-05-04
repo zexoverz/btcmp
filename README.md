@@ -9,6 +9,8 @@ Berikut cara menjalankannya :
 
 Adapun untuk menjalankan kode tersebut secara online, dapat dilakukan pada [website ini](https://https://www.onlinegdb.com/online_python_interpreter). Yang perlu anda lakukan hanyalah membuka website tersebut, salin setiap kode yang akan di jalankan ke laman tersebut, dan tekan tombol `Run`. Eureka! Anda berhasil menjalankannya <br>
 
+Jika ingin mengubah value dalam fungsi, sila ubah value tersebut di dalam kode program sebelum program dijalankan.
+
 ### Another Description
 #### No.1
 - (Jawaban yang disematkan ke README.md). Sebagai format standar dalam hal bertukar dan mengirim data antar aplikasi.
